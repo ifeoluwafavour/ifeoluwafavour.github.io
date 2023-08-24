@@ -1,0 +1,46 @@
+body {
+	background-color: #f9ecf9;
+}
+
+.bg {
+	background-color: #f9ecf9;
+	
+}
+
+.jumbo {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+
+
+.con {
+	padding: 18px;
+	font-size: 20px;	
+}
+
+
+.txt {
+	color: #993399;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.subclass {
+	margin: 0px;
+	padding: 0px;
+	font-size: 17px;
+	color: #993399;
+
+}
+
+.navbg {
+	background-color: #993399;
+	border-color: #993399;
+}
+
+a.navbg:hover {
+	background-color: #993399;
+	border-color: #993399;
+}
+
